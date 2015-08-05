@@ -1,0 +1,172 @@
+{
+	"id": "146b2d2e-0362-4c8a-a03a-c9fa51803c91",
+	"name": "genefo",
+	"values": [
+		{
+			"key": "url",
+			"value": "http://52.10.6.51:8080",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "jakoff4578@gmail.com",
+			"type": "text",
+			"name": "email",
+			"enabled": true
+		},
+		{
+			"key": "profileId",
+			"value": "undefined",
+			"type": "text",
+			"name": "profileId",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "sEEll9zqgTZVV03FSlt0lnz4UxfwMyolkb55U6AW%2BN5WIA6zfVulk7HkqifOpconEA%2BU3M1bBLrlyt1EVNumfQ%3D%3D",
+			"type": "text",
+			"name": "password",
+			"enabled": true
+		},
+		{
+			"key": "email2",
+			"value": "jakoff+5811@gmail.com",
+			"type": "text",
+			"name": "email2",
+			"enabled": true
+		},
+		{
+			"key": "profileID",
+			"value": "39219",
+			"type": "text",
+			"name": "profileID",
+			"enabled": true
+		},
+		{
+			"key": "articleId",
+			"value": "variable_value",
+			"type": "text",
+			"name": "articleId",
+			"enabled": true
+		},
+		{
+			"key": "pictureURL1",
+			"value": "https://d1uqg20l6v6zfd.cloudfront.net/unsafe/full-fit-in/640x0/user_47262/profile_39315/2c3bcaa6-05be-4d4b-be97-04566ce01c00?Expires=1435216229&Signature=B3MWC1AQhZHPoOnwggXbFPCak~Xo5Qo~-9P~EZPM0hmmzSMQiDeBEoYRjniOnTBGr-tfd9WHSNZdWG1C8xEtgQ8M0V7xay28d6vlafrLUF429RP4QTHQslruXwN9zZCmHpaOhWSqSMidWpSyYhp8gkpPPMaXya9VeL6aG9P9nOR4Ew7-1lAWeLaQb0KfpC-VtfsnrQRJfWC3ydgPvWfD411FeoSVnyidrBiFl0lA-Va6RPXVXKDrIXKGLc0dPZbDzU4eVA0GvjvQPHFK13v186Z6YJ41XDuV8VzjV3Z1ygS0csqwbK5X-Qm3s3nNIoRn2D8KEDgpkO-PY6kZnv4QmQ__&Key-Pair-Id=APKAJQXQB6JVHFQAG5IA",
+			"type": "text",
+			"name": "pictureURL1",
+			"enabled": true
+		},
+		{
+			"key": "pictureURL2",
+			"value": "https://d1uqg20l6v6zfd.cloudfront.net/unsafe/full-fit-in/640x0/user_47262/profile_39315/5489f3fa-e24b-42fa-a22d-088679063631?Expires=1435216229&Signature=Yv9m7hLxjFlR72mhZ54BSsbNKUMw0YOHIFfFDCRNXlHvabJPAF1IlAT3mjWSWPFQhpUomjX2YuwIyHThtEVZLqwSe8KQ7V8E2z5xRV~LUS5lMgRMG2mTy2jVs~JOYkiDQSLrX2VTKq~KQTOzAljooHqCw9jF7nIZWsOqEfS-MTSXIvAwtVMuzFQcdY-4HFapFqRm1UelvyFy4wPsIypeYNHS5gdnUoPhaNqoyX9njs72FiqPZzStE1wzkYYGbJbEl74GtfTVtosZSqw1OtWn2uDPzqVOa7C42-MxWs3kv~qPm64W2bLVgcsneZ9aP0oHQ8apyMDcSPmB4yION3wnbw__&Key-Pair-Id=APKAJQXQB6JVHFQAG5IA",
+			"type": "text",
+			"name": "pictureURL2",
+			"enabled": true
+		},
+		{
+			"key": "pictureURL3",
+			"value": "https://d1uqg20l6v6zfd.cloudfront.net/unsafe/full-fit-in/640x0/user_47262/profile_39315/c8e3ba60-be69-4805-ad4d-a40e82d98732?Expires=1435216229&Signature=HPUMZBIlRF1DIEYJcTh~R7OqJPmlkSY3y4QTVL7z9TaslDsnTPCXGj05P3s3rFOzhJlj3-lF8a-CyiKRqF799ZDxk2b7mAqcIhpZMzv-OkrNWHNbKjQaacTKF8h8uu~IMmvNusN9~jH~MTdqcBR8m66AxTrTy5BjbAsDljw2mlKrvq3QHvhJB8zsFIvHtlJ0wO8fb0qgKl64lRajuLb-PHA4V4QWOqw82DT81Ri-7nZpHiwxKtqHHwswgWgztDIMYr3HBxGtYKn0W1DppNlamzQ7K2aj8Vfg2U1qf7HKSm9MZ6x0-LVZFZ4Xm-2sbYDE7gpV8ESa2r0mRBALowbyWg__&Key-Pair-Id=APKAJQXQB6JVHFQAG5IA",
+			"type": "text",
+			"name": "pictureURL3",
+			"enabled": true
+		},
+		{
+			"key": "articleId1",
+			"value": "puff/4/",
+			"type": "text",
+			"name": "articleId1",
+			"enabled": true
+		},
+		{
+			"key": "articleId2",
+			"value": "puff/3/",
+			"type": "text",
+			"name": "articleId2",
+			"enabled": true
+		},
+		{
+			"key": "commentId",
+			"value": "53",
+			"type": "text",
+			"name": "commentId",
+			"enabled": true
+		},
+		{
+			"key": "profileId2",
+			"value": "39069",
+			"type": "text",
+			"name": "profileId2",
+			"enabled": true
+		},
+		{
+			"key": "postnum",
+			"value": "",
+			"type": "text",
+			"name": "postnum",
+			"enabled": true
+		},
+		{
+			"key": "random",
+			"value": "IABYgWeaEVDYDUvDHXjU",
+			"type": "text",
+			"name": "random",
+			"enabled": true
+		},
+		{
+			"key": "condition",
+			"value": "",
+			"type": "text",
+			"name": "condition",
+			"enabled": true
+		},
+		{
+			"key": "storyId",
+			"value": "579051",
+			"type": "text",
+			"name": "storyId",
+			"enabled": true
+		},
+		{
+			"key": "topuser",
+			"value": "39239",
+			"type": "text",
+			"name": "topuser",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"type": "text",
+			"value": "bbbc3f07fc0435b605193a3cb91634070a3b6159"
+		},
+		{
+			"key": "user_id",
+			"type": "text",
+			"value": "47453"
+		},
+		{
+			"key": "email_hcp",
+			"type": "text",
+			"value": "user9224@gyopmail.com"
+		},
+		{
+			"key": "hcp_user_id",
+			"type": "text",
+			"value": "47452"
+		},
+		{
+			"key": "profileId_hcp",
+			"type": "text",
+			"value": "39472"
+		},
+		{
+			"key": "random_text",
+			"type": "text",
+			"value": "ssVQXjhyWxKeGsAkLyun"
+		}
+	],
+	"timestamp": 1436248953884,
+	"synced": false,
+	"syncedFilename": ""
+}
